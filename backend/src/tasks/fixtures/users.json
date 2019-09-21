@@ -1,0 +1,92 @@
+[
+    {
+        "model": "tasks.user",
+        "pk": 10,
+        "fields": {
+            "username": "viktor_ven",
+            "first_name": "Viktor",
+            "last_name": "Vendelín",
+            "email": "viktor@libreneitor.com",
+            "picture": "https://randomuser.me/api/portraits/men/19.jpg",
+            "is_admin": true
+        }
+    },
+    {
+        "model": "tasks.user",
+        "pk": 11,
+        "fields": {
+            "username": "placid",
+            "first_name": "Placid",
+            "last_name": "Baldwin",
+            "email": "placid@libreneitor.com",
+            "picture": "https://randomuser.me/api/portraits/men/20.jpg"
+        }
+    },
+    {
+        "model": "tasks.user",
+        "pk": 12,
+        "fields": {
+            "username": "hri",
+            "first_name": "Hristina",
+            "last_name": "Winnie",
+            "email": "hristina@libreneitor.com",
+            "picture": "https://randomuser.me/api/portraits/women/35.jpg"
+        }
+    },
+    {
+        "model": "tasks.user",
+        "pk": 13,
+        "fields": {
+            "username": "gina",
+            "first_name": "Gina",
+            "last_name": "Momi",
+            "email": "gina@libreneitor.com",
+            "picture": "https://randomuser.me/api/portraits/women/36.jpg"
+        }
+    },
+    {
+        "model": "tasks.user",
+        "pk": 14,
+        "fields": {
+            "username": "math",
+            "first_name": "Mathys",
+            "last_name": "Luther",
+            "email": "mathys@libreneitor.com",
+            "picture": "https://randomuser.me/api/portraits/men/21.jpg",
+            "is_admin": true
+        }
+    },
+    {
+        "model": "tasks.user",
+        "pk": 15,
+        "fields": {
+            "username": "roub",
+            "first_name": "Rouben",
+            "last_name": "Len",
+            "email": "rlen@libreneitor.com",
+            "picture": "https://randomuser.me/api/portraits/men/22.jpg"
+        }
+    },
+    {
+        "model": "tasks.user",
+        "pk": 16,
+        "fields": {
+            "username": "maa",
+            "first_name": "Maaike",
+            "last_name": "Marijse",
+            "email": "maaike@libreneitor.com",
+            "picture": "https://randomuser.me/api/portraits/women/37.jpg"
+        }
+    },
+    {
+        "model": "tasks.user",
+        "pk": 17,
+        "fields": {
+            "username": "mas",
+            "first_name": "Masego",
+            "last_name": "Ambrosia",
+            "email": "masego@libreneitor.com",
+            "picture": "https://randomuser.me/api/portraits/women/38.jpg"
+        }
+    }
+]
